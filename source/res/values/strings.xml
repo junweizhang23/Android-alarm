@@ -4,5 +4,9 @@
     <string name="app_name">Alarm</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="JasonColor">Jason9263</string>
+    <string name="Add">Add one</string>
+    <string name="Substract">Subtract One</string>
+    <string name="Sum">The sum is :</string>
 
 </resources>
